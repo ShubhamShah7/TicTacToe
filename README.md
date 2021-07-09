@@ -3,7 +3,7 @@
 ### Elements
 
 * UIAlert
-* UIImageView
+* UICollectionView
 
 ![1](https://user-images.githubusercontent.com/65596375/125112407-bf44ad80-e104-11eb-8398-08990fc94198.png)<br>
 ![2](https://user-images.githubusercontent.com/65596375/125112440-c8357f00-e104-11eb-8e77-ab0f34b8643e.png)<br>
